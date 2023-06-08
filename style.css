@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+body {
+  margin: 20px;
+  background-color: rgb(223, 233, 252);
+}
+a {
+  color: rgba(234, 114, 70, 0.875);
+}
+.croissantPhoto {
+  max-width: 70%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
